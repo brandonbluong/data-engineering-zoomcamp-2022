@@ -1,5 +1,10 @@
 # Local OS files
 .DS_Store
+*.log
 
 # Local folders
 venv/
+/1_basics_and_setup/2_docker_sql/.ipynb_checkpoints
+/1_basics_and_setup/2_docker_sql/ny_taxi_postgres_data/
+/1_basics_and_setup/terraform/
+/1_basics_and_setup/2_docker_sql/test.parquet
