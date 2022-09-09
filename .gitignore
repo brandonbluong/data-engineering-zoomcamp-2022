@@ -1,6 +1,7 @@
 # Local OS files
 .DS_Store
 *.log
+.dccache
 
 # Local folders
 venv/
